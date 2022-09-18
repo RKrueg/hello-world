@@ -1,3 +1,3 @@
-hello
-goodbye
+hello!
+goodbye!
 so long
